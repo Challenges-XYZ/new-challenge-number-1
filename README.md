@@ -6,6 +6,9 @@ This challenge is to create a user's input and display it back to the user.
 ## Difficulty
 Extremely Easy (Beginner)
 
+## Point value:
+1
+
 ## Checklist
 - [ ] Create a variable
 - [ ] Get user input and store it in the variable
